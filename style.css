@@ -1,0 +1,44 @@
+/*GENERAL*/
+.body1{
+    padding: 10px;
+    background-color: #f6f9fc;
+
+}
+
+/*TITULOS*/
+
+.titulo1{
+    font-size: 73px;
+    font-family: 'Roboto', sans-serif;
+    color: #101733;
+}
+
+.titulo2{
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    color: #101733;
+}
+
+/*imagenes*/
+.img1{
+    width: 100%;
+}
+
+/*CARD y CONTAINER*/
+.cardclr{
+    background-image: url(img55.jpg);
+    background-color:#101733 ;
+    padding:20px;
+    width: 100%;
+    height: 50%;
+    align-content: center;
+    border: none;
+    border-radius: 1px;
+}
+
+.container{
+    background-color:#b2c9e091;
+    align-items: center;
+}
+
